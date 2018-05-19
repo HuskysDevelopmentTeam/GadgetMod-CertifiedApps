@@ -1,2 +1,2 @@
-# DeviceMod-CertifiedApps
-The official repository of certified applications for MrCrayfish's Device Mod.
+# GadgetMod-CertifiedApps
+The official repository of certified applications for Husky's Gadget Mod.
